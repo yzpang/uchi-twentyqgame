@@ -1,0 +1,8 @@
+00Is it alive?,QuestionA,QuestionB
+00QuestionA,QuestionC,QuestionD
+01QuestionB,QuestionE,GuessF
+10QuestionC,GuessG,QuestionH
+11QuestionD,GuessI,GuessJ
+11QuestionE,GuessK,GuessL
+10QuestionH,GuessM,QuestionN
+11QuestionN,GuessO,GuessP
