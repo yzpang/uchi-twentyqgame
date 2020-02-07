@@ -3,7 +3,7 @@
 
 Implementation of data structures and a simple twnety-question game in C
 
-*Updated in 2016*
+*Last updated in 2016*
 
 How to play: After `make`, type in `./qgame` in command line.
 
